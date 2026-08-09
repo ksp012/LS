@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/black.png"  ]
+[preload  storage="./data/bgimage/zennin.png"  ]
+[preload  storage="./data/bgimage/haikei/yaneura.png"  ]
+[preload  storage="./data/fgimage/default/ushiro.png"  ]
+[return]

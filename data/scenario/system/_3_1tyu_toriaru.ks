@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/haikei/setsumei_1.png"  ]
+[preload  storage="./data/bgimage/haikei/setsumei_2.png"  ]
+[preload  storage="./data/bgimage/haikei/setsumei_3.png"  ]
+[preload  storage="./data/bgimage/haikei/setsumei_4.png"  ]
+[return]

@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/haikei/rouka.jpg"  ]
+[preload  storage="./data/bgimage/haikei/1-rouka.png"  ]
+[preload  storage="./data/bgimage/5_zatsudan/5_112.png"  ]
+[preload  storage="./data/bgimage/5_zatsudan/5_110.png"  ]
+[return]

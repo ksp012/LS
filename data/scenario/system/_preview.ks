@@ -1,0 +1,6 @@
+[eval exp="f._system_preview_ks='X_16_TrueEnd.ks'"] 
+[preload  storage="./data/bgimage/haikei/staffroll.jpg"  ]
+[preload  storage="./data/bgimage/haikei/ed.jpg"  ]
+[preload  storage="./data/bgimage/haikei/happyend.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[return] 

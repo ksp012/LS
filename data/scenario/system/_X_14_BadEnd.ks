@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/haikei/bed_room.png"  ]
+[preload  storage="./data/bgimage/haikei/shiro.png"  ]
+[preload  storage="./data/bgimage/haikei/badend.png"  ]
+[preload  storage="./data/bgimage/black.png"  ]
+[return]

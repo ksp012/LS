@@ -1,0 +1,11 @@
+[_tb_system_call storage=system/_3_1tyu_toriaru.ks]
+
+[mask_off  time="1000"  effect="fadeOut"  ]
+[bg  time="2000"  method="fadeIn"  storage="haikei/setsumei_1.png"  ]
+[l  ]
+[bg  time="2000"  method="fadeIn"  storage="haikei/setsumei_2.png"  ]
+[l  ]
+[bg  time="2000"  method="fadeIn"  storage="haikei/setsumei_3.png"  ]
+[l  ]
+[bg  time="2000"  method="fadeIn"  storage="haikei/setsumei_4.png"  ]
+[jump  storage="4_0_saisho.ks"  target="*4_0saisyo"  ]
